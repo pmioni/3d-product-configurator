@@ -134,7 +134,7 @@
     },
     {
       "id": "wood",
-      "label": "wood",
+      "label": "legs",
       "defaultMesh": "wood",
       "defaultMaterial": {
         "name": "Cheap wood",

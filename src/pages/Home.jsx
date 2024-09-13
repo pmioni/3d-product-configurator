@@ -44,6 +44,7 @@ const MaterialSettingHolder = styled.div`
     top: 1em;
     right: 2em;
     z-index: 1;
+    display: none;
 `
 
 const MaterialSelectHolder = styled.div`
